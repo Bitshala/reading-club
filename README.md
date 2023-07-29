@@ -10,19 +10,19 @@ Material: [Onboarding to Bitcoin Core](https://bitcoincore.wtf/)
 
 Difficulty: Hard.
 
-Start: Wednesday 19th July, 7:30 PM.
+When: Every Wednesday, 7:30 PM. (starting 19th July)
 
-Duration: 8 weeks.
+Duration: 8 weeks (Estimated).
 
 Schedule:
- - Week 0: [Overview and Development Process](https://bitcoincore.wtf/#_overview_development_process)
- - Week 1: [Architecture](https://bitcoincore.wtf/#_architecture)
- - Week 2: [Consensus and Validation](https://bitcoincore.wtf/#_consensus_validation)
- - Week 3: [Wallet](https://bitcoincore.wtf/#_wallet)
- - Week 4: [P2P](https://bitcoincore.wtf/#_p2p)
- - Week 5: [Mempool](https://bitcoincore.wtf/#_mempool)
- - Week 6: [Scripts](https://bitcoincore.wtf/#_script)
- - Week 7: [RPC/ZMQ/REST + Appendix](https://bitcoincore.wtf/#_rpc_rest_zmq)
+ - [x] Week 0: [Overview and Development Process](https://bitcoincore.wtf/#_overview_development_process)
+ - [x] Week 1: [Architecture](https://bitcoincore.wtf/#_architecture)
+ - [ ] Week 2: [Consensus and Validation](https://bitcoincore.wtf/#_consensus_validation)
+ - [ ] Week 3: [Wallet](https://bitcoincore.wtf/#_wallet)
+ - [ ] Week 4: [P2P](https://bitcoincore.wtf/#_p2p)
+ - [ ] Week 5: [Mempool](https://bitcoincore.wtf/#_mempool)
+ - [ ] Week 6: [Scripts](https://bitcoincore.wtf/#_script)
+ - [ ] Week 7: [RPC/ZMQ/REST + Appendix](https://bitcoincore.wtf/#_rpc_rest_zmq)
 
 
 ## Optech Sunday Reading
