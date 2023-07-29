@@ -3,7 +3,6 @@
 Reading clubs are technical group studies held in the [Lounge voice channel of Bitshala Discord](https://discord.gg/atjEPVTdsQ).
 
 ## Getting Deeper in Bitcoin Core
-----
 Description: In-depth reading club of Onboarding to Bitcoin Core chapters.
 
 Material: [Onboarding to Bitcoin Core](https://bitcoincore.wtf/)
@@ -26,11 +25,10 @@ Schedule:
 
 
 ## Optech Sunday Reading
-----
 Description: Weekly Optech read-through session.
 
 Material: Latest Issue of [Optech](https://bitcoinops.org/).
 
 Difficulty: Moderate
 
-Time: Every Sunday, 7:00 PM.
+When: Every Sunday, 7:00 PM.
