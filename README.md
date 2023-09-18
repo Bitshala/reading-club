@@ -24,6 +24,27 @@ Schedule:
  - [ ] Week 7: [RPC/ZMQ/REST + Appendix](https://bitcoincore.wtf/#_rpc_rest_zmq)
 
 
+## Bitcoin Dev Philosophy
+----
+Description: Casual conversation of Developer's Philosophy for building on Bitcoin.
+
+Material: [Bitcoin development philosophy](https://bitcoindevphilosophy.com/)
+
+Difficulty: Easy.
+
+Start: Wednesday 20th Sept, 8:00 PM.
+
+Duration: 5 weeks.
+
+Schedule:
+ - Week 0: [Decentralization](https://bitcoindevphilosophy.com/#decentralization)
+ - Week 1: [Trustlessness + Privacy](https://bitcoindevphilosophy.com/#trustlessness)
+ - Week 2: [Finite Supply and Upgrading](https://bitcoindevphilosophy.com/#finitesupply)
+ - Week 3: [Adversarial Thinking and Open Source](https://bitcoindevphilosophy.com/#opensource)
+ - Week 4: [When shit hits the fan + Appendix A](https://bitcoindevphilosophy.com/#whenshithitsthefan)
+
+Location: [Bitshala Discord](https://discord.gg/atjEPVTdsQ)
+
 ## Optech Sunday Reading
 Description: Weekly Optech read-through session.
 
