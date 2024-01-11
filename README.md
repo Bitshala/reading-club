@@ -52,4 +52,4 @@ Material: Latest Issue of [Optech](https://bitcoinops.org/).
 
 Difficulty: Moderate
 
-When: Every Sunday, 7:00 PM.
+When: Every Sunday, 8:00 PM.
