@@ -58,4 +58,4 @@ Playlist:
 
 [Newsletter #283](https://www.youtube.com/watch?v=RqpkTxbmTEM)
 
-When: Every Sunday, 8:00 PM.
+When: Every Monday, 8:00 PM.
