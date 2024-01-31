@@ -52,4 +52,10 @@ Material: Latest Issue of [Optech](https://bitcoinops.org/).
 
 Difficulty: Moderate
 
+Playlist:
+
+[Newsletter #281](https://www.youtube.com/watch?v=3ykA_diiD2Y)
+
+[Newsletter #283](https://www.youtube.com/watch?v=RqpkTxbmTEM)
+
 When: Every Sunday, 8:00 PM.
