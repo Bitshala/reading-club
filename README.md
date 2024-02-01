@@ -2,6 +2,24 @@
 
 Reading clubs are technical group studies held in the [Lounge voice channel of Bitshala Discord](https://discord.gg/atjEPVTdsQ).
 
+## How to Think About the Economy
+Description: Reading Session and Discussion of 'How to Think About the Economy' by Professor Per Bylund.
+
+Material: [How to Think About the Economy](https://cdn.mises.org/how_to_think_about_the_economy.pdf)
+
+Difficulty: Easy.
+
+When: Every Wednesday, 8 PM. Starting 7th February, 2024.
+
+Duration: 5 weeks (Estimated)
+
+Schedule:
+- Week 0: [Introduction by Professor Per Bylund and QnA Session.]
+- Week 1: [Part I - Economics; What Economics Is, Economic Theory, How to Do Economics.]
+- Week 2: [Part II - Market; A Process, Not a Factory, Production and Enterpreneurship.]
+- Week 3: [Part II - Market; Value, Money, and Price, Economic Calculation.]
+- Week 4: [Part III - Intervention; Monetary Intervention, Regulatory Intervention. Conclusion.]
+
 ## Getting Deeper in Bitcoin Core
 Description: In-depth reading club of Onboarding to Bitcoin Core chapters.
 
@@ -9,7 +27,7 @@ Material: [Onboarding to Bitcoin Core](https://bitcoincore.wtf/)
 
 Difficulty: Hard.
 
-When: Every Wednesday, 7:30 PM. (starting 19th July)
+When: Every Wednesday, 8 PM. (starting date TBD)
 
 Duration: 8 weeks (Estimated).
 
@@ -25,14 +43,13 @@ Schedule:
 
 
 ## Bitcoin Dev Philosophy
-----
 Description: Casual conversation of Developer's Philosophy for building on Bitcoin.
 
 Material: [Bitcoin development philosophy](https://bitcoindevphilosophy.com/)
 
 Difficulty: Easy.
 
-Start: Wednesday 20th Sept, 8:00 PM.
+When: Every Wednesday, 8 PM. (starting date TBD)
 
 Duration: 5 weeks.
 
@@ -43,7 +60,6 @@ Schedule:
  - Week 3: [Adversarial Thinking and Open Source](https://bitcoindevphilosophy.com/#opensource)
  - Week 4: [When shit hits the fan + Appendix A](https://bitcoindevphilosophy.com/#whenshithitsthefan)
 
-Location: [Bitshala Discord](https://discord.gg/atjEPVTdsQ)
 
 ## Optech Sunday Reading
 Description: Weekly Optech read-through session.
@@ -59,3 +75,18 @@ Playlist:
 [Newsletter #283](https://www.youtube.com/watch?v=RqpkTxbmTEM)
 
 When: Every Monday, 8:00 PM.
+
+## Bitcoin Whitepaper
+Description: Technical Walkthrough of the Bitcoin Whitepaper on Genesis Block Day.
+
+Material: [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+
+Difficulty: Easy to Moderate.
+
+Link:
+
+[Genesis Block Day Special: Bitcoin Whitepaper Technical Walkthrough](https://www.youtube.com/watch?v=luYYnNsu29A)
+
+When: Genesis Block Day(3rd January) and (soon)Whitepaper Day(31st October)
+
+Duration: 1.5hrs.
