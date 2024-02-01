@@ -14,11 +14,11 @@ When: Every Wednesday, 8 PM. Starting 7th February, 2024.
 Duration: 5 weeks (Estimated)
 
 Schedule:
-- Week 0: [Introduction by Professor Per Bylund and QnA Session.]
-- Week 1: [Part I - Economics; What Economics Is, Economic Theory, How to Do Economics.]
-- Week 2: [Part II - Market; A Process, Not a Factory, Production and Enterpreneurship.]
-- Week 3: [Part II - Market; Value, Money, and Price, Economic Calculation.]
-- Week 4: [Part III - Intervention; Monetary Intervention, Regulatory Intervention. Conclusion.]
+- Week 0: Introduction by Professor Per Bylund and QnA Session.
+- Week 1: Part I - Economics; What Economics Is, Economic Theory, How to Do Economics.
+- Week 2: Part II - Market; A Process, Not a Factory, Production and Enterpreneurship.
+- Week 3: Part II - Market; Value, Money, and Price, Economic Calculation.
+- Week 4: Part III - Intervention; Monetary Intervention, Regulatory Intervention. Conclusion.
 
 ## Getting Deeper in Bitcoin Core
 Description: In-depth reading club of Onboarding to Bitcoin Core chapters.
